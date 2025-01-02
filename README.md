@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram singh kaviya</h1>
 <h3 align="center">Turning ideas into reality with technology</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **web/Back-end Application**
 
 - 🌱 I’m currently learning **Laravel framework**
 
