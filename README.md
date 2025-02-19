@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **web/Back-end Application**
 
-- 🌱 I’m currently learning **Laravel framework**
+- 🌱 I’m a **PHP/Laravel Developer**
 
 - 👨‍💻 All of my projects are available at [https://vikram-singh-kaviya.github.io/portfolio/](https://vikram-singh-kaviya.github.io/portfolio/)
 
-- 💬 Ask me about **Html, CSS, JS, Php, Laravel and Java**
+- 💬 Ask me about **Html, CSS, JS, Php, MySQL, Laravel and Java**
 
 - 📫 How to reach me **vickybanna461@gmail.com**
 
