@@ -5,7 +5,7 @@
 
 - 🌱 I’m a **PHP/Laravel Developer**
 
-- 👨‍💻 All of my projects are available at [https://vikram-singh-kaviya.github.io/portfolio/](https://vikram-singh-kaviya.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://vikram-kaviya-portfolio.netlify.app/)
 
 - 💬 Ask me about **Html, CSS, JS, Php, MySQL, Laravel and Java**
 
